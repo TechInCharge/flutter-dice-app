@@ -10,7 +10,8 @@ Even though it is from the course, but the code has been completly written from 
 
 A Sample app that will roll two dice and randomize it's results. can be use in games requiring a dice.
 
-![Finished App](https://github.com/TechInCharge/flutter-dice-app/blob/master/Flutter-Dice-app.gif)
+<img src="https://github.com/TechInCharge/flutter-dice-app/blob/master/Flutter-Dice-app.gif" alt="alt text" width="whatever" height="600">
+
 
 ## Concepts in this APP
 

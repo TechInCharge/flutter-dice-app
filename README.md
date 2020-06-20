@@ -3,14 +3,15 @@
 
 # Dicee 🎲
 
-## Our Goal
+## AppBrewery Course app
 
-The objective of this tutorial is to introduce you to the core programming concepts that will form the foundation of most of the apps you’ll build in the future. This app will teach you how to make apps with functionality using setState() inside Stateful Flutter widgets.
+This is a sample app, learned as an exmaple from appbrewery.co course.
+Even though it is from the course, but the code has been completly written from scratch.
 
 
 ## What you will create
 
-We’re going to make a Las Vegas dice app. You can make the die roll at the press of a button. With this app in your pocket, you’ll be able to settle any score on the go!
+A Sample app that will roll two dice and randomize it's results. can be use in games requiring a dice.
 
 ![Finished App](https://github.com/TechInCharge/flutter-dice-app/blob/master/Flutter-Dice-app.gif)
 
@@ -26,6 +27,7 @@ We’re going to make a Las Vegas dice app. You can make the die roll at the pre
 - basic dart programming concepts such as data types and functions.
 - Code and use gesture controls.
 
->This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
+
+If you want to learn how to create flutter apps you can check out The App Brewery's Complete Flutter Development Bootcamp, it is a great course by Angela Yu at [www.appbrewery.co](https://www.appbrewery.co/)
 
 
